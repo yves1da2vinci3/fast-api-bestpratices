@@ -1,0 +1,6 @@
+fastapi==0.110.3
+SQLAlchemy==1.4.47
+psycopg2-binary==2.9.5
+passlib==1.7.4
+python-jose==3.3.0
+redis==4.4.2
